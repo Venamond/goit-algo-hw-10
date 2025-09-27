@@ -81,7 +81,7 @@ def find_min_coins(amount: int, coins: List[int]) -> Dict[int, int]:
     return res
 
 if __name__ == "__main__":
-    amount = 1130000
+    amount = 113
     try:
         print("-" * 40)
         t0 = time.perf_counter()
